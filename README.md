@@ -16,6 +16,6 @@ It creates a local server (at ```https://localhost:3000```) and sends a basic re
 ### Offline usage
 
 #### Setup of the package
-1. Clone the repository using ```git clone git@github.com:sklinkusch/express-color.git``` (SSH) or ```git clone https://github.com/sklinkusch/express-color``` (HTTPS).
-1. Move into the directory ```express-color``` and run ```npm install``` or ```yarn```.
+1. Clone the repository using ```git clone git@github.com:sklinkusch/express-tutorial.git``` (SSH) or ```git clone https://github.com/sklinkusch/express-tutorial``` (HTTPS).
+1. Move into the directory ```express-tutorial``` and run ```npm install``` or ```yarn```.
 1. Run ```npm run dev``` or ```yarn dev``` in the folder. The server is available on ```https://localhost:3000```.
